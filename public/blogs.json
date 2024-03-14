@@ -1,0 +1,48 @@
+[
+    {
+      "id": "123456",
+      "cover_image": "https://i.ibb.co/Wk3RWD0/memories-are-us-Fkqz-W25ud-Qg-unsplash.jpg",
+      "author": "Jane Doe",
+      "author_image": "https://i.ibb.co/F6G8vDQ/istockphoto-1365834059-1024x1024.jpg",
+      "posted_time": "2024-03-13 09:00:00",
+      "reading_time": "10 minutes",
+      "hashtag": ["#fiction", "#fantasy", "#adventure"]
+    },
+    {
+      "id": "789012",
+      "cover_image": "https://i.ibb.co/8sX02yn/kenny-eliason-q-Uuz-Pvjw2-CI-unsplash.jpg",
+      "author": "John Smith",
+      "author_image": "https://i.ibb.co/W6vKZXC/istockphoto-1424988699-1024x1024.jpg",
+      "posted_time": "2024-03-13 10:30:00",
+      "reading_time": "15 minutes",
+      "hashtag": ["#mystery", "#crime", "#thriller"]
+    },
+    {
+      "id": "345678",
+      "cover_image": "https://i.ibb.co/NVZR6hy/istockphoto-2062280943-1024x1024.jpg",
+      "author": "Alice Johnson",
+      "author_image": "https://i.ibb.co/XsjzTqf/istockphoto-1029798864-1024x1024.jpg",
+      "posted_time": "2024-03-13 12:45:00",
+      "reading_time": "20 minutes",
+      "hashtag": ["#romance", "#drama", "#contemporary"]
+    },
+    {
+      "id": "901234",
+      "cover_image": "https://i.ibb.co/CzLX15Q/liz-pullan-pattathy-r-Pt-PNAltx-Yw-unsplash.jpg",
+      "author": "David Brown",
+      "author_image": "https://i.ibb.co/Xyk57rm/istockphoto-489090342-1024x1024.jpg",
+      "posted_time": "2024-03-13 14:20:00",
+      "reading_time": "12 minutes",
+      "hashtag": ["#sciencefiction", "#dystopian", "#technology"]
+    },
+    {
+      "id": "567890",
+      "cover_image": "https://i.ibb.co/xLD46qz/liz-pullan-pattathy-gp-Q5pp-V7-GSU-unsplash.jpg",
+      "author": "Emily Green",
+      "author_image": "https://i.ibb.co/2P7v71b/istockphoto-1749103990-1024x1024.jpg",
+      "posted_time": "2024-03-13 16:00:00",
+      "reading_time": "18 minutes",
+      "hashtag": ["#horror", "#supernatural", "#psychological"]
+    }
+  ]
+  
